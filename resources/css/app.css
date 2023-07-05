@@ -1,0 +1,44 @@
+/* Plugins */
+@import url("./backend/jquery-jvectormap-2.0.2.css");
+@import url("./backend/simplebar.css");
+@import url("./backend/perfect-scrollbar.css");
+@import url("./backend/metisMenu.min.css");
+@import url("./plugins/datatable/dataTables.bootstrap5.min.css");
+
+/* date time */
+@import url("./backend/classic.css");
+@import url("./backend/classic.date.css");
+
+/* Loader */
+@import url("./backend/pace.min.css");
+
+/* Bootstrap */
+@import url("./backend/bootstrap.min.css");
+@import url("./backend/bootstrap-extended.css");
+@import url("bootstrap-icons");
+
+/* Theme */
+@import url("./backend/app.css");
+
+.btn i{
+    font-size: 15px!important;
+}
+
+.margin-right-0{
+    margin-right: 0px!important;
+}
+
+audio{
+    height: 30px!important;
+    background-color: cornflowerblue;
+}
+
+.error_txt{
+    font-size: 10px;
+    float: right;
+    margin-top: 6px;
+}
+
+.error_box{
+    border: 1px solid red;
+}
